@@ -1,2 +1,2 @@
 # Arduino Relay Module
-Arduino Sensor Library
+One Channel Relay Module Pinout
