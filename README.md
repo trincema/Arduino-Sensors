@@ -1,2 +1,2 @@
-# Arduino-Sensors
+# Arduino Sensor Library
 Arduino Sensor Library
